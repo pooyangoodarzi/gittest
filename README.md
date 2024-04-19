@@ -3,3 +3,5 @@ This is a tutorial file
 
 hint1
 
+hint2
+
